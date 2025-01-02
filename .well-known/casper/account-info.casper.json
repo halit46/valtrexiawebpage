@@ -1,0 +1,62 @@
+{
+    "owner": {
+        "name": "Valtrexia Staking",
+        "description": "Reliable validator with bare metal specifications",
+        "type": [ 
+	  "validator"
+	],
+        "identity": {
+            "ownership_disclosure_url": "",
+            "casper_association_kyc_url": "",
+            "casper_association_kyc_onchain": ""
+        },
+        "resources": {
+            "code_of_conduct_url": "",
+            "terms_of_service_url": "",
+            "privacy_policy_url": "",
+            "other": []
+        },
+        "affiliated_accounts": [
+            {"public_key": ""}
+        ],
+        "website": "",
+        "email": "",
+        "branding": {
+            "logo": {
+                "png_256": "https://valtrexia.com/valtrexialogo.png",
+                "png_1024": "",
+                "svg": ""
+            }
+        },
+        "location": {
+            "name": "Istanbul",
+            "country": "TR",
+            "latitude": 0,
+            "longitude": 0
+        },
+        "social": {
+            "keybase": "",
+            "telegram": "",
+            "twitter": "",
+            "github": "",
+            "youtube": "",
+            "facebook": "",
+            "medium": "",
+            "reddit": "",
+            "wechat": ""
+        }
+    },
+    "nodes": [
+        {
+            "public_key": "0143035a8bca387b75b061e9aa92d31bf7dfceccfa7c5d9a2b114b7bac8c0a5362",
+            "description": "Node with bare metal specs",
+            "location": {
+                "name": "Istanbul",
+                "country": "TR",
+                "latitude": 41.015137,
+                "longitude": 28.979530
+            },
+            "functionality": ["validator"]
+        }
+    ]
+}
