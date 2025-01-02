@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: OUR WEBSİTE IS UNDER CONSTRUCTION, STAY TUNED!
 ---
 
